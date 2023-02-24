@@ -12,9 +12,8 @@ An application that is in charge of taking a specific image through Images Targe
 </p>
 
 ## ***Model 3D: 🗿*** <br>
-<p align="center">
-   <img src="https://github.com/kvto/ARProject1/blob/main/Assets/duck.jpg" width="285px" align="center">
-</p>
+   | <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/duck.jpg" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/duck2.jpg" width="285px" align="center"> | <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/duck3.jpg" width="285px" align="center">
+|---|---|---|
 
 # Steps to run the project 🚨:
 
@@ -32,10 +31,23 @@ An application that is in charge of taking a specific image through Images Targe
 <p align="center">
  References of the different versions of the different plugins or elements </p>
  
-<p align="center">
-  <img height="400"src="Assets/1.png" />
-  <img height="500" src="src/img/2.png" />
-</p>
+ | <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/1.png" width="1200px" align="center"> 
+|---|
+
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/2.png" width="1200px" align="center"> 
+|---|
+
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/3.png" width="1200px" align="center"> 
+|---|
+
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/4.png" width="1200px" align="center"> 
+|---|
+
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/5.png" width="1200px" align="center"> 
+|---|
+
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/6.png" width="1200px" align="center"> 
+|---|
 
   ## More info about me: 
 <div id="badges" >
@@ -60,7 +72,8 @@ CE: 004712881 🆔
 
 
 <p align="center">
-<img height="50" src="Assets/logo2 (2).png" />
-<img height="50" src="Assets/logo3.png" />
-<img height="50" src="Assets/Sin título.png" />
+<img height="50" src="Assets/Images/logo2 (2).png" />
+<img height="50" src="Assets/Images/logo3.png" />
+<img height="50" src="Assets/Images/Sin título.png" />
+ <img height="50" src="Assets/Images/logo solo.png" />
 </p>
