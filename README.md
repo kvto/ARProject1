@@ -29,6 +29,13 @@ An application that is in charge of taking a specific image through Images Targe
 
 > 3.- We proceed to configure the SDK Platforms and SDK Tools sections taking into account the versions of each installed element (to see the versions check the Show Package Details box)
 
+<p align="center">
+ References of the different versions of the different plugins or elements </p>
+ 
+<p align="center">
+  <img height="500"src="Assets/1.png" />
+  <img height="500" src="src/img/2.png" />
+</p>
 
   ## More info about me: 
 <div id="badges" >
