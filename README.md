@@ -20,11 +20,15 @@ An application that is in charge of taking a specific image through Images Targe
 
 > 1.- Once the project is downloaded, you must have the three fundamental programs installed such as ***UnityHub***, ***Unity*** and ***Android Studio***. Preferably the previously commented versions in this same document.
 
-> 2.- Once we have downloaded the programs, we proceed to configure the Android Studio program, we go to Configure and then to SDK Manager
+> 2.- Once we have downloaded the programs, we proceed to configure the Android Studio program, we go to Configure and then to SDK Manager.
+>> NOTE: In this link you can find a step by step to download and install Android Studio. [Link](https://docs.unrealengine.com/5.0/en-US/how-to-set-up-android-sdk-and-ndk-for-your-unreal-engine-development-environment/)
 
 <p align="center">
    <img src="https://github.com/kvto/ARProject1/blob/main/Assets/androidsetup.png" width="400px" align="center">
 </p>
+
+> 3.- We proceed to configure the SDK Platforms and SDK Tools sections taking into account the versions of each installed element (to see the versions check the Show Package Details box)
+
 
   ## More info about me: 
 <div id="badges" >
