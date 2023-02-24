@@ -33,7 +33,7 @@ An application that is in charge of taking a specific image through Images Targe
  References of the different versions of the different plugins or elements </p>
  
 <p align="center">
-  <img height="500"src="Assets/1.png" />
+  <img height="400"src="Assets/1.png" />
   <img height="500" src="src/img/2.png" />
 </p>
 
