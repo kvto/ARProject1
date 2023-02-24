@@ -4,21 +4,28 @@ An application that is in charge of taking a specific image through Images Targe
 
 # Project features 🚨:
   ***Unity version: 2021.3.18f1*** <br>
-  ***
-  
   ***UnityHub version: 3.4.1*** <br>
-  ***
   ***Android Studio version: 4.0*** <br>
-  ***
-  ***Image Target:*** <br>
-  ***
-  <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Editor/Vuforia/ImageTargetTextures/AR1DB/image_scaled.jpg" width="285px" align="center"> <br>
-  ***
-  ***Model 3D:*** <br>
-  ***
+##  ***Image Target: 🖼*** <br>
+<p align="center">
+  <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Editor/Vuforia/ImageTargetTextures/AR1DB/image_scaled.jpg" width="285px" align="center">
+</p>
+
+## ***Model 3D: 🗿*** <br>
+<p align="center">
    <img src="https://github.com/kvto/ARProject1/blob/main/Assets/duck.jpg" width="285px" align="center">
-   ***
-   
+</p>
+
+# Steps to run the project 🚨:
+
+> 1.- Once the project is downloaded, you must have the three fundamental programs installed such as ***UnityHub***, ***Unity*** and ***Android Studio***. Preferably the previously commented versions in this same document.
+
+> 2.- Once we have downloaded the programs, we proceed to configure the Android Studio program, we go to Configure and then to SDK Manager
+
+<p align="center">
+   <img src="https://github.com/kvto/ARProject1/blob/main/Assets/androidsetup.png" width="400px" align="center">
+</p>
+
   ## More info about me: 
 <div id="badges" >
 Ing. Kevin J. Montero Zea 
