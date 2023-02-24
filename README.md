@@ -3,9 +3,9 @@
 An application that is in charge of taking a specific image through Images Target and once the device manages to detect said image, the application will proceed to show a 3D design, in this case which would be a red duck 🦆
 
 # Project features 🚨:
-  ***Unity version: 2021.3.18f1*** <br>
-  ***UnityHub version: 3.4.1*** <br>
-  ***Android Studio version: 4.0*** <br>
+  ***<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unity logo" width="20"> Unity version: 2021.3.18f1*** <br>
+  ***<img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" alt="unityhub logo" width="20">UnityHub version: 3.4.1*** <br>
+  ***<img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" alt="androidstudio logo" width="20">Android Studio version: 4.0*** <br>
 ##  ***Image Target: 🖼*** <br>
 <p align="center">
   <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Editor/Vuforia/ImageTargetTextures/AR1DB/image_scaled.jpg" width="285px" align="center">
