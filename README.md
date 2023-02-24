@@ -31,23 +31,36 @@ An application that is in charge of taking a specific image through Images Targe
 <p align="center">
  References of the different versions of the different plugins or elements </p>
  
- | <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/1.png" width="1200px" align="center"> 
+ | <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/1.png" width="900px" align="center"> 
 |---|
 
-| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/2.png" width="1200px" align="center"> 
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/2.png" width="900px" align="center"> 
 |---|
 
-| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/3.png" width="1200px" align="center"> 
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/3.png" width="900px" align="center"> 
 |---|
 
-| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/4.png" width="1200px" align="center"> 
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/4.png" width="900px" align="center"> 
 |---|
 
-| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/5.png" width="1200px" align="center"> 
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/5.png" width="900px" align="center"> 
 |---|
 
-| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/6.png" width="1200px" align="center"> 
+| <img src="https://github.com/kvto/ARProject1/blob/main/Assets/Images/6.png" width="900px" align="center"> 
 |---|
+
+> 4.- Once you have everything configured, proceed to open the UnityHub program, and then go to the Open button and choose the Add Project from disk option; find the location of the previously downloaded file.
+
+<p align="center">
+<img height="400" src="Assets/Images/open.png" />
+</p>
+
+> 4.- And finally, the respective Target Images will appear on the initial screen with the previously mentioned models
+> 
+
+<p align="center">
+<img height="400" src="Assets/Images/final.png" />
+</p>
 
   ## More info about me: 
 <div id="badges" >
